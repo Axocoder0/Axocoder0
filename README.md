@@ -7,6 +7,11 @@
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Animated Coding" />
 
+### About Me
+🤖 I love creating Discord bots!
+🌱 Currently learning Python.
+🎥 I'm also a content creator.
+
 ### Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"  />
@@ -25,8 +30,13 @@
   <a href="https://discord.gg/codersplanet">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
   </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="JavaScript" />
+  </a>
 </div>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
