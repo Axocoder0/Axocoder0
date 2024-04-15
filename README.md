@@ -7,12 +7,14 @@
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Animated Coding" />
 
-### About Me
-🤖 I love creating Discord bots!
-🌱 Currently learning Python.
-🎥 I'm also a content creator.
+<h3 align="center">About Me</h3>
+<div align="center">
+  🤖 I love creating Discord bots!<br>
+  🌱 Currently learning Python.<br>
+  🎥 I'm also a content creator.
+</div>
 
-### Skills
+<h3 align="center">Skills</h3>
 <div align="left">
   <a href="https://www.python.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"  />
@@ -23,8 +25,8 @@
   </a>
 </div>
 
-### Connect with Me
-<div align="left">
+<h3 align="center">Connect with Me</h3>
+<div align="center">
   <a href="https://youtube.com/@AxoCoder?si=WYggB1myrZNTRoAT">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
   </a>
@@ -37,4 +39,5 @@
 </div>
 
 <br clear="both">
+
 
