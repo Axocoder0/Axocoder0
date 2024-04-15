@@ -16,16 +16,16 @@
 
 ### Connect with Me
 <div align="left">
-  <a href="YOUR_YOUTUBE_LINK">
+  <a href="https://youtube.com/@AxoCoder?si=WYggB1myrZNTRoAT">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
   </a>
-  <a href="YOUR_INSTAGRAM_LINK">
+  <a href="https://www.instagram.com/memezonebgmi/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>
-  <a href="YOUR_DISCORD_LINK">
+  <a href="https://discord.gg/codersplanet">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
   </a>
-  <a href="YOUR_EMAIL">
+  <a href="prasadankit1111@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
 </div>
